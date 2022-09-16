@@ -1,3 +1,3 @@
 ### Olá, eu sou o Daniel Mazzon 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![DanielMazzon GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmazzon&show_icons=true&theme=radical)
