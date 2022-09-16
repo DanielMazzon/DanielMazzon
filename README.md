@@ -13,3 +13,7 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </div>
+
+## Entre em contato através:
+
+[![linkedin](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org)](www.linkedin.com/in/DanielMazzon)
