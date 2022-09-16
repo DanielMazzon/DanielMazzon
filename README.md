@@ -16,4 +16,4 @@
 
 ## Entre em contato através:
 
-[![linkedin](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org)](www.linkedin.com/in/DanielMazzon)
+[![linkedin](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](www.linkedin.com/in/DanielMazzon)
